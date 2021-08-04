@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361594916667",
+    "project_id": "moranguinho-agendamentos",
+    "storage_bucket": "moranguinho-agendamentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361594916667:android:0c5bb5b6c3236d6da9f11e",
+        "android_client_info": {
+          "package_name": "br.com.lucas.agendamento_moranguinho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361594916667-mkudk7dcai9tq8d7ug15qrtmi436dqqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9TKM5egUHdZdmUeiPDr4svg0CS23kdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361594916667-mkudk7dcai9tq8d7ug15qrtmi436dqqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

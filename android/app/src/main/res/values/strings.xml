@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agendamentos Moranguinho</string>
+
+    <string name="facebook_app_id">2845115639071352</string>
+
+    <string name="fb_login_protocol_scheme">fb2845115639071352</string>
+
+</resources>
